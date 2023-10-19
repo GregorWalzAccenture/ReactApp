@@ -1,0 +1,6 @@
+.atmosphere {
+    min-height: 90vh;
+    min-width: 100vw;
+    background-image: url('./sakura.jpg');
+    background-size: contain;
+}
