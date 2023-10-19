@@ -4,7 +4,7 @@ class IntroText extends React.Component {
     render() {
         return (
             <div>My text</div>
-        )
+        );
     }
 }
 

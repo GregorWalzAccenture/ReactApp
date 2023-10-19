@@ -1,0 +1,20 @@
+
+.cat {
+    border: 50px solid rgb(83, 83, 83);
+    margin: 1em;
+    text-align: center;
+}
+
+.cat-name {
+    font-family: 'Chilanka', cursive;
+    font-family: 'Pixelify Sans', sans-serif;
+    font-size: 2em;
+}
+
+.cat-description {
+    background-color: chocolate;
+}
+
+.cat-selected {
+    border: 50px solid rgb(109, 236, 170);
+}
