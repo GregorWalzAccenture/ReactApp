@@ -9,7 +9,7 @@ class Header extends React.Component {
             <header className="App-header">
                 <img src={logo} className="App-logo" alt="logo" />
                 <p>
-                Hello World
+                Hello World 2
                 </p>
                 
             </header>
