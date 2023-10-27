@@ -17,6 +17,9 @@ class App extends React.Component {
         <IntroText />
 
         <Cats>
+        <Cat animalPic="./img/cow1.jpg" animalName="Bärli" />
+          <Cat animalPic="./img/cow2.jpg" animalName="Mikey" />
+          <Cat animalPic="./img/cow3.jpg" animalName="Tom" />
           <Cat animalPic="./img/cat1.jpg" animalName="Minki" />
           <Cat animalPic="./img/cat2.jpg" animalName="Bärli" />
           <Cat animalPic="./img/cat3.jpg" animalName="Mikey" />
